@@ -1,0 +1,22 @@
+{
+  "Personajes": [
+    { "id": 1, "nombre": "Meliodas", "descripcion": "capitán de los 7 pecados capitales" },
+    { "id": 2, "nombre": "Ban", "descripcion": "capitán de los 7 pecados capitales" },
+    { "id": 3, "nombre": "Merlin", "descripcion": "capitán de los 7 pecados capitales" },
+    { "id": 4, "nombre": "Elizabeth", "descripcion": "capitán de los 7 pecados capitales" },
+    { "id": 5, "nombre": "King", "descripcion": "capitán de los 7 pecados capitales" },
+    { "id": 6, "nombre": "Escanor", "descripcion": "capitán de los 7 pecados capitales" }
+  ],
+  "Armas": [
+    { "id": 1, "nombre": "Lostvayne", "descripcion": "Espada de Meliodas" },
+    { "id": 2, "nombre": "Courechouse", "descripcion": "Bastón de Ban" }
+  ],
+  "Armaduras": [
+    { "id": 1, "nombre": "Armadura Sagrada de Meliodas", "descripcion": "Armadura usada por Meliodas" },
+    { "id": 2, "nombre": "Armadura Sagrada de Ban", "descripcion": "Armadura usada por Ban" }
+  ],
+  "Locaciones": [
+    { "id": 1, "nombre": "Britannia", "descripcion": "Reino principal de Nanatsu no Taizai" },
+    { "id": 2, "nombre": "Liones", "descripcion": "Reino de los humanos" }
+  ]
+}
