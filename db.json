@@ -1,11 +1,11 @@
 {
   "Personajes": [
-    { "id": 1, "nombre": "Meliodas", "descripcion": "capitán de los 7 pecados capitales" },
-    { "id": 2, "nombre": "Ban", "descripcion": "capitán de los 7 pecados capitales" },
-    { "id": 3, "nombre": "Merlin", "descripcion": "capitán de los 7 pecados capitales" },
-    { "id": 4, "nombre": "Elizabeth", "descripcion": "capitán de los 7 pecados capitales" },
-    { "id": 5, "nombre": "King", "descripcion": "capitán de los 7 pecados capitales" },
-    { "id": 6, "nombre": "Escanor", "descripcion": "capitán de los 7 pecados capitales" }
+    { "id": 1, "nombre": "Meliodas", "image": "https://static.wikia.nocookie.net/7dsgc_mobile_game/images/8/84/Hero_illust_meliodas_god_1945501.png", "descripcion": "capitán de los 7 pecados capitales" },
+    { "id": 2, "nombre": "Ban", "image": "https://static.wikia.nocookie.net/7dsgc_mobile_game/images/e/ed/Hero_illust_ban_1065001.png", "descripcion": "capitán de los 7 pecados capitales" },
+    { "id": 3, "nombre": "Diana", "image": "https://static.wikia.nocookie.net/7dsgc_mobile_game/images/8/82/Hero_illust_diane_1045001.png", "descripcion": "capitán de los 7 pecados capitales" },
+    { "id": 4, "nombre": "Elizabeth", "image": "https://static.wikia.nocookie.net/7dsgc_mobile_game/images/8/84/Hero_illust_meliodas_god_1945501.png", "descripcion": "capitán de los 7 pecados capitales" },
+    { "id": 5, "nombre": "King", "image": "https://static.wikia.nocookie.net/7dsgc_mobile_game/images/8/84/Hero_illust_meliodas_god_1945501.png", "descripcion": "capitán de los 7 pecados capitales" },
+    { "id": 6, "nombre": "Escanor", "image": "https://static.wikia.nocookie.net/7dsgc_mobile_game/images/8/84/Hero_illust_meliodas_god_1945501.png", "descripcion": "capitán de los 7 pecados capitales" }
   ],
   "Armas": [
     { "id": 1, "nombre": "Lostvayne", "descripcion": "Espada de Meliodas" },
