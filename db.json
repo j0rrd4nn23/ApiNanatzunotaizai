@@ -4,22 +4,19 @@
     { "id": 1,
       "nombre": "Meliodas",
       "image": "https://static.wikia.nocookie.net/nanatsu-no-taizai/images/a/af/Meliodas_Anime.png",
-      "descripcion": "Él es el protagonista masculino de la historia, su pecado es la Ira y su símbolo el Dragón,
-      Su tesoro sagrado es la Espada Demoníaca Lostvayne y su poder inherente es Full Counter." },
+      "descripcion": "su pecado es la Ira y su símbolo el Dragón,Su tesoro sagrado es la Espada Demoníaca Lostvayne y su poder inherente es Full Counter." },
       
     
     { "id": 2,
       "nombre": "Ban",
       "image": "https://static.wikia.nocookie.net/nanatsu-no-taizai/images/e/e0/Ban_Anime.png",
-      "descripcion": "representa el pecado de la Codicia y además posee la marca del Zorro. Después de la disolución del grupo, Ban fue inicialmente encarcelado en Baste Dungeon, pero escapó 
-      cuando descubrió que Meliodas seguía vivo. Su tesoro sagrado es Courechouse. Además de ser inmortal, es conocido por su habilidad, Snatch" }, 
+      "descripcion": "representa el pecado de la Codicia y además posee la marca del Zorro. Después de la disolución del grupo, Ban fue inicialmente encarcelado en Baste Dungeon, pero escapó cuando descubrió que Meliodas seguía vivo. Su tesoro sagrado es Courechouse. Además de ser inmortal, es conocido por su habilidad, Snatch" }, 
       
     
     { "id": 3,
       "nombre": "Diane",
       "image": "https://static.wikia.nocookie.net/7dsgc_mobile_game/images/8/82/Hero_illust_diane_1045001.png",
-      "descripcion": "es una integrante de los Siete Pecados Capitales,
-      representada por el pecado de la Envidia y además porta la marca de la Serpiente. Su tesoro sagrado es el Martillo de guerra Gideon." },
+      "descripcion": "es una integrante de los Siete Pecados Capitales,representada por el pecado de la Envidia y además porta la marca de la Serpiente. Su tesoro sagrado es el Martillo de guerra Gideon." },
      
     { "id": 4,
       "nombre": "Elizabeth",
